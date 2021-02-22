@@ -1,1 +1,1 @@
-
+This game is a plinko game. When u left-click your mouse a ball will fall from the top of the screen and you need to try to get it into a high level box like 500. Then depending on what box you land the ball in the score will increase by that much and you will only have 5 turns, so by the end of those 5 turns try to get as many points as you can.
